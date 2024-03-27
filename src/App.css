@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  height: 100%;
+  padding: 15px;
+  background-image: url(calum-lewis-8Nc_oQsc2qQ-unsplash.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+}
